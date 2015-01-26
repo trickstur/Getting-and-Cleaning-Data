@@ -17,7 +17,7 @@ Getting and Cleaning Data - Course Project
 
 The script assumes that the user has already downloaded and installed the provided zipped contents into their working directory.
 
-Files can be downloaded here: [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]
+Files can be downloaded here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ##run_analysis.R Walkthrough
 
