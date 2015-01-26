@@ -67,14 +67,14 @@ The given data from the datasets provided were merged into a single dataset usin
 
 The reformatted data represents a tidy data set:
 
-..* One variable per column
-..* There is a single observation per row  
-   ..* there are 180 rows, since 6 activities have been measured for 30 individuals
-..* The table holds one type of data study  
-   ..* averages for a collection of measures for subjects and their activities.
-..* Column names are consistent and have been cleaned up and are more informative
-   ..* names like "BodyBody" have been changed to body. 
-   ..* -mean, -std, and so forth have been made easier to read. 
-   ..* Several words like "Mag" have been extended to full length "Magnitude". 
+1. One variable per column
+2. There is a single observation per row  
+   + there are 180 rows, since 6 activities have been measured for 30 individuals
+3. The table holds one type of data study  
+   + averages for a collection of measures for subjects and their activities.
+4. Column names are consistent and have been cleaned up and are more informative
+   + names like "BodyBody" have been changed to body. 
+   + -mean, -std, and so forth have been made easier to read. 
+   + Several words like "Mag" have been extended to full length "Magnitude". 
 
 
