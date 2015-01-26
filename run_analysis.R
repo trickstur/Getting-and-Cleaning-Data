@@ -21,10 +21,6 @@
 # 1. Merges the training and the test sets to create one data set.
 #-------------------
 
-# set working directory 
-setwd('/Users/Michael/Documents/UCI HAR Dataset')
-
-
 # read activity labels & features
 features <- read.table("./features.txt") #imports features.txt
 activity_labels <- read.table("./activity_labels.txt") #imports activity_labels.txt
